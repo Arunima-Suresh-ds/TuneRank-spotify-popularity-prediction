@@ -1,9 +1,9 @@
 #  TuneRank: Music Popularity & Performance Analysis
 
-![Python](https://img.shields.io/badge/Python-3.8+-black?style=flat&logo=python)
-![ML](https://img.shields.io/badge/Machine%20Learning-Classification-orange)
-![Model](https://img.shields.io/badge/Models-RandomForest%20%7C%20XGBoost-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised-FF9800)
+![Task](https://img.shields.io/badge/Task-Popularity%20Prediction-9C27B0)
+![Status](https://img.shields.io/badge/Status-Completed-2E7D32)
 
 
 
